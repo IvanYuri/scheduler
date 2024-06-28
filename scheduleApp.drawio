@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T01:56:56.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Za46mpIiSTEQbtWnKkJ3" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T01:59:01.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="L3i_CMVCKuD_TvHr6Wmp" version="24.6.3" type="github">
   <diagram name="Page-1" id="hWc6c_K8vR9eIQ7MWBZz">
     <mxGraphModel dx="2815" dy="3368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,9 +17,10 @@
         <mxCell id="kdlszv8kuRYmDG17Q20z-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kdlszv8kuRYmDG17Q20z-4" target="kdlszv8kuRYmDG17Q20z-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="540" y="-1855" />
               <mxPoint x="540" y="-1840" />
-              <mxPoint x="880" y="-1840" />
-              <mxPoint x="880" y="-1725" />
+              <mxPoint x="830" y="-1840" />
+              <mxPoint x="830" y="-1725" />
               <mxPoint x="885" y="-1725" />
             </Array>
           </mxGeometry>
@@ -60,7 +61,7 @@
           <mxGeometry x="930" y="-1920" width="660" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kdlszv8kuRYmDG17Q20z-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="-1710" width="380" height="370" as="geometry" />
+          <mxGeometry x="790" y="-1700" width="380" height="370" as="geometry" />
         </mxCell>
         <mxCell id="kdlszv8kuRYmDG17Q20z-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Schedule&lt;/h1&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Displays Schedule&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;created by AI, also used to create it manually in case the user find the necessity, so the calendar must use drag-and-drop interface, this case the app should store one not positioned member in a waiting to be scheduled list, and block the schedule to be created if that list is not empty, to minimise human error.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;It also should present two options after the schedule is ready:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;send via e-mail (Integration)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;send via WhatsApp (Integration)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="-1700" width="320" height="340" as="geometry" />
@@ -96,7 +97,7 @@
           <mxGeometry x="-330" y="-1050" width="350" height="500" as="geometry" />
         </mxCell>
         <mxCell id="kdlszv8kuRYmDG17Q20z-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="-930" width="360" height="820" as="geometry" />
+          <mxGeometry x="390" y="-910" width="360" height="820" as="geometry" />
         </mxCell>
         <mxCell id="kdlszv8kuRYmDG17Q20z-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="915" y="-1110" width="370" height="610" as="geometry" />
