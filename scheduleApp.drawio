@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T22:47:29.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.6.3" etag="FydCxqUes3MH5HEkgykc" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T00:00:26.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="VwDFAo01X-FiiEGw8p2l" version="24.6.3" type="github">
   <diagram name="Page-1" id="hWc6c_K8vR9eIQ7MWBZz">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="2667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kdlszv8kuRYmDG17Q20z-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-1670" width="250" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="kdlszv8kuRYmDG17Q20z-9" value="Dashboard" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-1660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kdlszv8kuRYmDG17Q20z-12" value="&lt;ul style=&quot;font-size: 16px;&quot;&gt;&lt;li&gt;Optimised AI schedule&lt;/li&gt;&lt;li&gt;AI chatbot&lt;/li&gt;&lt;li&gt;Schedule&lt;/li&gt;&lt;li&gt;Timetable&lt;/li&gt;&lt;li&gt;Holidays &amp;amp; Time off&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;Settings&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacingTop=0;spacing=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="-1600" width="220" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="kdlszv8kuRYmDG17Q20z-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-1100" width="180" height="260" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
